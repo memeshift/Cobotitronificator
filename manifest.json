@@ -1,10 +1,10 @@
 {
 "manifest_version": 2,
-    "name": "Boyfriend, please.",
-    "description": "Replace mentions of bros with boyfriend",
-    "version": "0.1.2",
+    "name": "Cobotitronificator",
+    "description": "Replace mentions of robot with Cobot and other things.  No penguins were harmed in the making of this extension.",
+    "version": "0.1",
     "icons": {
-        "128": "images/icon-128.png"
+        "128": "images/Cobot_Extension_icon.png"
     },
     "content_scripts": [
         {
